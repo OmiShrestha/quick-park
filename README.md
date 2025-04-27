@@ -1,6 +1,6 @@
-# Parking Management System for The Next Center
+# Parking Management System for Quick-Park
 
-A Laravel-based Parking Management System developed as a summer project at **Thames International College**. This system is designed to streamline parking management at The Next Center by reducing congestion and improving operational efficiency.
+A Laravel-based Parking Management System designed to streamline parking management by reducing traffic congestion and improving operational efficiency.
 
 ## Table of Contents
 - [Parking Management System for The Next Center](#parking-management-system-for-the-next-center)
