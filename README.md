@@ -124,3 +124,9 @@ The system has been tested for:
 
 ### License
 This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for more details.
+
+## Languages Used
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
