@@ -124,7 +124,3 @@ The system has been tested for:
 
 ### License
 This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) file for more details.
-
-### Contact
-Developed by Kirtan Shrestha   
-[work.kirtanshrestha@gmail.com](mailto:work.kirtanshrestha@gmail.com)
