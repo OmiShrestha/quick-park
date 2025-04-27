@@ -34,7 +34,7 @@ The **Parking Management System (PMS)** was created to address parking challenge
   - Manage parking spot availability and monitor usage
   - Generate and view parking utilization reports
   - Set dynamic rates based on demand
-  - ![Rates](public/img/readme/drivein.png)
+   ![Rates](public/img/readme/drivein.png)
 
 - **Payment Integration**:
   - Integrated online payment processing for parking fees
