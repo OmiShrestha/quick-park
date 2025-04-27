@@ -1,9 +1,9 @@
 # Parking Management System for Quick-Park
 
-A Laravel-based Parking Management System designed to streamline parking management by reducing traffic congestion and improving operational efficiency.
+A Laravel and MySQL-based Parking Management System designed to streamline parking management by reducing traffic congestion and improving operational efficiency.
 
 ## Table of Contents
-- [Parking Management System for The Next Center](#parking-management-system-for-the-next-center)
+- [Quick-Park](#parking-management-system-for-quick-park)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Features](#features)
@@ -15,13 +15,13 @@ A Laravel-based Parking Management System designed to streamline parking managem
     - [Usage](#usage)
     - [Testing](#testing)
     - [Limitations](#limitations)
-    - [Future Enhancements](#future-enhancements)
+    - [Potential Enhancements](#potential-enhancements)
     - [License](#license)
     - [Contact](#contact)
 
 ## Project Overview
 
-The **Parking Management System (PMS)** was created to address parking challenges at The Next Center, a commercial complex that experiences high traffic. Developed as a summer project, this system provides a modern solution for tracking parking availability, managing parking entries and exits, and automating payment processing.
+**Quick-Park** was created to address parking challenges. This system provides a modern solution for tracking parking availability, managing parking entries and exits, and automating payment processing.
 
 ## Features
 
