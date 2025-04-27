@@ -34,7 +34,7 @@ The **Parking Management System (PMS)** was created to address parking challenge
   - Manage parking spot availability and monitor usage
   - Generate and view parking utilization reports
   - Set dynamic rates based on demand
-  - ![Rates](public/img/readme/drivein.jpg)
+  - ![Rates](public/img/readme/drivein.png)
 
 - **Payment Integration**:
   - Integrated online payment processing for parking fees
@@ -104,7 +104,7 @@ Access the application at [http://localhost:8000](http://localhost:8000).
     ![Admin Dashboard Screenshot](public/img/readme/report.jpg)
 
 - **User Module**: Users can find number of available parking spaces and complete parking-related transactions.
-    ![User Module Screenshot](public/img/readme/drivein.jpg)
+    ![User Module Screenshot](public/img/readme/drivein.png)
 
 ### Testing
 The system has been tested for:
