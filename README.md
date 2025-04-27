@@ -28,7 +28,7 @@ The **Parking Management System (PMS)** was created to address parking challenge
 - **User Module**:
   - Real-time display of parking space availability
   - Streamlined entry and exit processes
-  - ![User Module Screenshot](public/img/readme/user.png)
+  ![User Module Screenshot](public/img/readme/user.png)
 
 - **Admin Module**:
   - Manage parking spot availability and monitor usage
@@ -46,7 +46,7 @@ The **Parking Management System (PMS)** was created to address parking challenge
 - **Frontend**: HTML, CSS, Bootstrap
 - **Database**: MySQL (using XAMPP)
 - **Tools and IDE**: Visual Studio Code
-- **Browsers**: Google Chrome and Microsoft Edge for testing
+- **Browsers**: Safari and Google Chrome for testing
 - **Version Control**: Git and GitHub
 
 ## Installation
@@ -63,8 +63,8 @@ The **Parking Management System (PMS)** was created to address parking challenge
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kirtanshrestha/parking-management-system.git
-   cd parking-management-system
+   git clone https://github.com/OmiShrestha/quick-park.git
+   cd quick-park
     ```
  3. **Install Dependencies**:
 Run the following commands to install project dependencies:
@@ -96,12 +96,12 @@ Access the application at [http://localhost:8000](http://localhost:8000).
 
 
 ## Alternatively: 
-  This version includes an alternative step for importing the database directly. Let me know if you'd like further customization!
+  This version includes an alternative step for importing the database directly. Reach out for further customization.
 
 
 ### Usage
 - **Admin Dashboard**: Access the admin dashboard to manage parking spaces, monitor usage, and view reports.
-    ![Admin Dashboard Screenshot](public/img/readme/report.jpg)
+    ![Admin Dashboard Screenshot](public/img/readme/report.png)
 
 - **User Module**: Users can find number of available parking spaces and complete parking-related transactions.
     ![User Module Screenshot](public/img/readme/drivein.png)
@@ -117,7 +117,7 @@ The system has been tested for:
 - High initial setup costs and dependency on XAMPP for local hosting.
 - Limited scalability for larger parking lots or more complex systems.
 
-### Future Enhancements
+### Potential Enhancements
 - **Smart Parking Sensors**: Integrating IoT sensors for real-time availability updates.
 - **Advanced Analytics**: Data analysis for usage insights and dynamic rate optimization.
 - **Automated License Plate Recognition (ALPR)**: To streamline vehicle entry and exit tracking.
@@ -129,4 +129,5 @@ This project is licensed under the MIT License. See the [`LICENSE`](LICENSE) fil
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-ff2d20?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
